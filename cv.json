@@ -49,14 +49,15 @@
     },
     {
       "name": "VegAvengers Marketing",
-      "position": "Product Designer / Front-End Engineer",
+      "position": "Product Designer / Design Engineer",
       "url": "https://vegavengers.com",
       "startDate": "2025-02",
       "endDate": "",
       "summary": "Freelance project",
       "highlights": [
-        "Designed and built a responsive discovery experience that helps visitors find VegFests and animal sanctuaries through backend-integrated search.",
-        "Translated the organization's mission and content structure into maintainable React and TypeScript product surfaces."
+        "Designed and shipped the organization's content platform on Payload CMS: content model, editorial dashboard, and publish workflow, now run day-to-day by two non-technical editors.",
+        "Built an AI freshness checker as Payload jobs that verifies festival data against primary sources and proposes corrections as drafts, so nothing goes live without editor approval.",
+        "Designed and built the public discovery experience with flexible search across festivals and sanctuaries, served from the CMS with graceful fallbacks so an outage never breaks the site."
       ]
     },
     {
